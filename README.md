@@ -15,5 +15,4 @@ Udemy: Modern javascript from the beginning
 
 
 ## Built With
-* [Angular](https://angular.io/) - a TypeScript-based open-source web application framework
 * [OpenWeather API](https://openweathermap.org/api) - Simple and fast and free weather API from OpenWeatherMap
